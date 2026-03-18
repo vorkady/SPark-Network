@@ -1,0 +1,5 @@
+{
+  "name": "DGX Spark Cluster",
+  "description": "Monitor and manage a network of NVIDIA DGX Spark nodes using Hedera Hashgraph for decentralized coordination and auditing.",
+  "requestFramePermissions": []
+}
